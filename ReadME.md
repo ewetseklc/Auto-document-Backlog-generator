@@ -6,9 +6,6 @@
 
 *Built with n8n, OpenAI, and GitHub API*
 
-[TikTok Demo](https://img.shields.io/badge/TikTok-Demo-red)
-
-[n8n Version](https://img.shields.io/badge/n8n-1.0+-blue)
 
 <div align="center">
 <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yYzB5dWJhZGQ0Z3B0Y2V6Z2JtN3BicDlzZ2J6d2VjZ3B6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yYzB5dWJhZGQ0Z3B0Y2V6Z2JtN3BicDlzZ2J6d2VjZ3B6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)" width="400" alt="Bot in action">
